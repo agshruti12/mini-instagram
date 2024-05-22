@@ -1,4 +1,4 @@
-# Mini Instagrama
+# Mini Instagram
 
 ## Overview
 
